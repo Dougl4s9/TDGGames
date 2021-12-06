@@ -1,0 +1,202 @@
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+}
+#cabecalho{
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    cursor: pointers;
+    color: black;
+text-align: center;
+margin-top: -120px;
+background-color: orange;
+
+}
+
+.home-orange{background: orange;
+box-shadow: 0 3px 0 black;}
+
+.home-orange:hover{background: orangered;
+box-shadow: 0 3px 0 black;}
+
+.home-orange:active{background: orangered;
+box-shadow: none;
+position: relative;
+top:5px;}
+
+
+table{
+    margin: 0px auto;
+    padding: 30px;
+}
+
+.img{
+    width: 95%;
+}
+
+.imagens_rodape {
+    width:16px;
+}
+
+            .home{
+                font-family: arial;
+                color: black;
+                font-weight: 100;
+                padding: 5px;
+                font-size: 20px;
+                text-decoration: none;
+                border: 0.2px solid;
+                border color:  black;
+                border-radius: 15px;
+            }
+
+body{
+    background-image: url("../fotos/fundo.jpg");
+}
+#rodape{
+    background-color: orange; 
+    color: black; 
+    margin-left:-10px; 
+    margin-right:-10px; 
+    font-size: 13px; 
+    padding: 3px 0px 3px 5px; 
+    font-family: arial; 
+    font-weight: 100; 
+    width:100%; bottom: 0;
+}
+
+.textos_rodape {
+    display:inline-block; 
+    padding-right: 10px;
+}
+
+
+
+}
+a.linkrodape:link{
+    font-weight: bold;
+}
+a.linkrodape:visited{
+    color: darkred;
+}
+a.linkrodape:hover{
+    text-decoration: none;
+}
+a.linkrodape:active{
+    color: black;
+}
+
+fieldset{
+    border: all;
+    border-radius: 15px;
+    border-color: orange;
+    text-align: center;
+}
+legend {
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: 100;
+    padding: 5px;
+    font-size: 20px;
+
+}
+
+form {
+    margin-top: 30px;
+
+
+}
+
+label {
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 16px;
+    color:orange;
+    background-color: black;
+
+}
+
+.input {
+    background-color: white;
+    color: black;
+    font-weight: 200;
+    width:143px;
+    text-align: center;
+
+ }
+
+ .tabelacontato {
+    padding:5px;
+    text-align: left;
+    margin: 0px auto; /*Coloca o elemento à esquerda, anulando o que está em table (geral) */
+    vertical-align: top;
+}
+
+#rodape{
+    background-color: orange; 
+    color: black; 
+    margin-left:-10px; 
+    margin-right:-10px; 
+    font-size: 13px; 
+    padding: 3px 0px 3px 5px; 
+    font-family: arial; 
+    font-weight: 100; 
+    width:100%; bottom: 0;
+}
+
+.textos_rodape {
+    display:inline-block; 
+    padding-right: 10px;
+}
+
+}
+a.linkrodape:link{
+    font-weight: bold;
+}
+a.linkrodape:visited{
+    color: darkred;
+}
+a.linkrodape:hover{
+    text-decoration: none;
+}
+a.linkrodape:active{
+    color: black;
+}
+
+.imagens_rodape {
+    width:16px;
+}
+
+#descricao{
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: #F9EFF3;
+}
+
+
+body{
+    background-image: url("../fotos/fundo.jpg");
+    background-size: 100%;
+
+}
+
+.bo{
+    width:100px;
+}
+
+#logo{
+    margin: -150px;
+    padding: 50px;
+    margin-top: -100px;
+    margin-bottom: -100px;
+}
+#logotipo{
+    width: 500px;
+}
